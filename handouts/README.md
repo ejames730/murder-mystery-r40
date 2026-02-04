@@ -12,6 +12,7 @@ Complete AI prompts for generating:
 - 🎫 Shady Pines "Bucks" (token currency)
 - 🎭 NPC clue cards
 - 🏆 Award certificates
+- 🎲 Playable bingo cards (12 unique, double-sided with clues)
 - 📋 Sign-in sheet prop (Diane's obsession)
 - 💊 Medication log prop
 
@@ -50,6 +51,7 @@ Use the AI prompts as inspiration to create custom designs that match your party
 - [ ] 8 Primary character bio sheets (one per main player)
 - [ ] 4 NPC character sheets (for staff players)
 - [ ] 12 Player tracking sheets (one per person)
+- [ ] 12 Bingo cards (double-sided with clues on back)
 - [ ] Shady Pines map (1-2 copies to display)
 - [ ] Token currency (10 tokens × 12 players = 120 minimum)
 
@@ -117,15 +119,18 @@ Use the AI prompts as inspiration to create custom designs that match your party
 
 ### For Primary Characters (8 players)
 - Character bio sheet
+- Bingo card (unique, double-sided)
 - Player tracking sheet
 - 10 starting tokens
-- Pen/pencil
+- Pen/pencil or dauber for bingo
 
 ### For NPCs (4 players)
 - NPC character sheet
 - NPC quick-reference clue card
+- Bingo card (unique, double-sided)
 - Player tracking sheet (optional, they can still win awards!)
 - 10 starting tokens
+- Pen/pencil or dauber for bingo
 
 ### For Host
 - Master copy of all character sheets

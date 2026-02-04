@@ -65,6 +65,17 @@
 
 ---
 
+## 🎲 BINGO WINS (bonus points!)
+
+□ Round 1 - Five in a Row (**2 pts**)  
+□ Round 2 - Four Corners (**2 pts**)  
+□ Round 3 - Blackout (**3 pts**)  
+□ Additional Win (**1 pt**)
+
+**BINGO TOTAL:** **_____ pts**
+
+---
+
 ## 📍 LOCATIONS VISITED
 
 □ Bingo Hall / Community Room  
@@ -110,6 +121,7 @@
 |----------|--------|
 | Clues Discovered | _____ |
 | Character Objectives | _____ |
+| Bingo Wins | _____ |
 | Remaining Tokens | _____ |
 | First Accusation Bonus (5 pts) | _____ |
 | Voted Correctly (3 pts) | _____ |
