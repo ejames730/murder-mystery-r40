@@ -29,6 +29,7 @@ These are secret goals characters can pursue during the party. They make interac
 - **Get yourself accused of the murder** (chaotic neutral energy)
 - **Take credit for solving the murder even if you didn't** (Detective Marge's objective)
 - **Plant false evidence against someone you dislike**
+- **Declare the death "Natural Causes" and try to move on** (Staff objective: Avoid paperwork)
 
 ### Ridiculous Goals
 - **Get everyone to complain about the thermostat** (make it a movement)
@@ -36,6 +37,13 @@ These are secret goals characters can pursue during the party. They make interac
 - **Fall asleep during the murder reveal**  (commit to the bit)
 - **Collect as many Werther's Originals as possible** (hoard them)
 - **Get someone to attend one of Gerald's activities** (impossible challenge)
+
+### Staff-Specific "Professional" Objectives
+- **Solve the murder before a single resident does** (The "Professional Pride" goal)
+- **Expose a resident's "illegal" activity** (Rose's gambling ring, or unauthorized pets)
+- **"Clean Up" the crime scene before Marge arrives** (Apathy is key!)
+- **Collect "Bribes" for every clue you give** (The most profitable staff member wins!)
+- **Force the killer to admit it while doing Chair Cardio**
 
 ---
 

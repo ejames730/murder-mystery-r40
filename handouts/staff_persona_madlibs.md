@@ -29,23 +29,35 @@ I’ve been working here for **(Number)** _________ years, so I’ve seen it all
 
 If anyone wants to know what *really* happened during Bingo, they’d better bring me a **(Bribe/Gift)** _____________________ first!
 
+## 📓 The Staff "Security Log" (Investigation)
+Since you work here, you see things the residents miss. Use this log to track the clues you find and solve the crime before these "seniors" do!
+
+**Primary Suspect:** _____________________ (Because they were acting very **[Adjective]** _______________).
+
+**Evidence I've "Confiscated" (Clues):**
+1. ____________________________________________________________________
+2. ____________________________________________________________________
+
+**My Professional Deduction:**
+I believe the murder was committed with a **(Object)** _____________________ in the **(Location)** _____________________ because I saw **(Resident)** _____________________ doing something **(Verb ending in -ing)** _____________________ earlier today.
+
 ---
 
 ## 💡 Inspiration for Staff Quirks (If you're stuck)
 
-| If you want to be... | Try this Job Title | Your Annoying Action | Your Catchphrase |
+| Style | Job Title | Annoying Action | Your Catchphrase |
 | :--- | :--- | :--- | :--- |
 | **Energetic** | Chief Stamina Officer | Blowing a silver whistle | "High knees or no cheese!" |
 | **Strict** | Director of Compliance | Squinting at your watch | "That's a code-red violation!" |
 | **Bored** | Head of Apathy | Sighing very loudly | "Is it 5:00 yet?" |
-| **Gossip-hungry** | Tea-Spiller General | Taking "mental notes" | "Oh, I shouldn't say, but..." |
+| **Detective-y**| Undercover Janitor | Sniffing near suspects | "I smell something... suspicious." |
 | **Confused** | Intern of Unknowns | Tripping over your own feet | "Wait, which one is Dorothy?" |
 
 ---
 
 ### 🎭 Tips for Staff Players:
-1.  **Interrupt often**: The residents are important, but your "job" (or your lunch break) is more important.
-2.  **Stay in character**: If you chose the whistle, use it! If you're bored, look at your phone (or a fake clipboard).
-3.  **Be the gatekeeper**: You have the clues. Make the players work for them by doing a "task" (like a quick lap or signing your "official" sheet).
+1.  **Professional Snitching**: You are the eyes and ears of Shady Pines. If you see a resident being sneaky, call them out (or write it in your log).
+2.  **The Gatekeeper**: You have the "official" blueprints of the building. If a resident wants a clue, make them do a "staff task" for you first.
+3.  **Out-Solve the Seniors**: Use your staff access to "search" areas (ask the host for clues) and try to name the killer before the residents do! 
 
 **Welcome to the team! Now, get back to work!**
