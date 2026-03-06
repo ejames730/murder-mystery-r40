@@ -12,6 +12,7 @@ The community room is decorated with black balloons, walkers wrapped in streamer
 - "Happy 40th! Welcome to Shady Pines, Dearie!"
 - "You're not over the hill, you're just getting a parking spot closer to it!"
 - "Early Bird Specials: Now Available for YOU!"
+- **Hand-lettered Sign**: "SILENCE DURING BINGO - Respect the Game or Face the Chancla."
 
 ## Key Locations
 - **The Bingo Hall** (Community Room): Where the main event happens.

@@ -9,11 +9,11 @@ These characters have deep backstories, secrets, objectives, and are the main su
 3. **Blanche "The Flirt" Devereaux** (76) - Hits on all male residents; undercover administrator's daughter
 4. **Sophia "The Curmudgeon" Petrillo** (89) - Falls asleep mid-sentence, weaponizes walker; richest resident
 5. **"Gentleman" George Sterling** (81) - Charming former banker; hiding that he's broke, courting wealthy widows
-6. **Lorenzo "The Lothario" Romano** (74) - Former soap opera actor; juggling 4+ romantic relationships
 7. **Detective Marge Cooper (Retired)** (79) - Ex-police detective; appointed herself lead investigator
+8. **Maria "LA chancla" Garcia** (80) - Enforces community "rules" with her deadly accurate slipper
 
 ### Special Guest
-8. **The Birthday Girl - [Wife's Name]** (40) - "New resident" celebrating her 40th birthday; fresh eyes on the chaos
+9. **The Birthday Girl - [Wife's Name]** (40) - "New resident" celebrating her 40th birthday; fresh eyes on the chaos
 
 ---
 
@@ -39,6 +39,7 @@ These characters provide clues and atmosphere through natural interaction.
 | The Gentleman | George | Quotes poetry, kisses hands | Broke, courting for money |
 | The Lothario | Lorenzo | Checks reflections, name-drops | Multiple affairs |
 | The Detective | Marge | Takes notes constantly | Forced into retirement |
+| The Matriarch | LA chancla | Slipper ALWAYS in hand | Former championship jai alai player |
 | The New Resident | Birthday Girl | Out of place | It's her party! |
 
 ---
