@@ -22,7 +22,7 @@ These characters provide clues and atmosphere through natural interaction.
 
 ### Staff Members
 1. **Nurse Margaret** (45) - Speaks VERY slowly and loudly; overprotective; knows who was near medication room
-2. **Gerald** (38) - Activities Coordinator with outdated slang; tracks who attended/skipped events
+2. **Gerald** (38) - Fitness & Wellness Coordinator; relentlessly upbeat. Blows a whistle for impromptu "Chair Cardio" and "Hydration Breaks."
 3. **Frank** (67) - Handyman who mumbles and says "Eh?"; notices everything but tells no one unless asked 3+ times
 4. **Diane** (52) - Front Desk admin obsessed with sign-in sheet; bored, loves drama
 

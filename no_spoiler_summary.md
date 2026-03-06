@@ -35,7 +35,7 @@ The year is 2026. Shady Pines is a "luxury" retirement community known for its e
 | Name | Role | Personality |
 | :--- | :--- | :--- |
 | **Margaret** | Head Nurse | Speaks VERY SLOWLY and LOUDLY to everyone. Overprotective and motherly. |
-| **Gerald** | Activities Coordinator | Relentlessly upbeat. Uses 90s slang and is obsessed with "Chair Yoga" and scrapbooking. |
+| **Gerald** | Fitness & Wellness Coordinator | Relentlessly upbeat. Blows a whistle for impromptu "Chair Cardio" and "Hydration Breaks." |
 | **Frank** | Handyman | Mumbles incoherently and says "Eh?" a lot. Moves at the pace of cold molasses. |
 | **Diane** | Front Desk Admin | Obsessed with the guest sign-in sheet. Loves a good story and "remembers when she was younger." |
 

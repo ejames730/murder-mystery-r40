@@ -1,19 +1,19 @@
-# Gerald - Activities Coordinator
+# Gerald Miller - Fitness & Wellness Coordinator
 
 **Age**: 38
 **Role**: NPC / Staff Member
-**Occupation**: Activities Coordinator at Shady Pines
+**Occupation**: Fitness & Wellness Coordinator at Shady Pines (Self-styled "Senior Games Coach")
 
 ## Profile
-Gerald is relentlessly upbeat and constantly suggests activities that absolutely NO ONE wants to do: chair yoga, scrapbooking, interpretive dance. He uses outdated slang he thinks makes him "cool" with the residents. He's trying SO hard but is completely oblivious to how annoying he is.
+Gerald is relentlessly upbeat, aggressively energetic, and completely oblivious to the fact that his "target demographic" mostly just wants to nap. He views Shady Pines as a high-performance training facility and himself as a elite coach. He is infamous for blowing his whistle at inappropriate times to initiate "impromptu hydration breaks" or "standing-ovations-for-cardio."
 
 ## Quirks
-- "That's totally rad, my dudes!" (unironically)
-- "Who's ready for CHAIR YOGA?!" (nobody is ready)
-- Wears a fanny pack full of craft supplies
-- Has a clipboard tracking who attends activities
-- "Don't be a square! Get groovy with it!"
-- References trends from 15 years ago as if they're current
+- "That's totally rad, my dudes! Who's ready for some BURPEE BINGO?!"
+- Carries a silver whistle around his neck and blows it to get attention.
+- "Hydrate or die-drate, friends! Take a sip!"
+- Wears a neon headband and a moisture-wicking polo tucked into high-waisted shorts.
+- Interrupts serious conversations for "30 seconds of jazz hands" to increase heart rates.
+- "Don't be a square! Get groovy with it! High knees, Sophia! High knees!"
 
 ## What He Knows (Clue Distribution)
 Gerald tracks attendance obsessively and knows:

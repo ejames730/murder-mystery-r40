@@ -3,7 +3,7 @@
 ## The Victim: TBD (To Be Determined by Host)
 Options for the victim:
 - **A resident** (e.g., The Curmudgeon everyone wanted in their will, The Lothario with too many enemies)
-- **A staff member** (e.g., Activities Coordinator Gerald, who annoyed everyone with chair yoga)
+- **A staff member** (e.g., Fitness Coordinator Gerald, who annoyed everyone by blowing his whistle during naps)
 
 ## The Discovery
 Just as someone yells "BINGO!" during the championship round, a scream erupts. The victim is found slumped over in their chair, a bingo dauber still clutched in their hand (or face-down in their early bird special meatloaf).
