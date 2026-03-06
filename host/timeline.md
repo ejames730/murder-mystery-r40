@@ -18,7 +18,7 @@ Use this as your master guide for running the dinner party.
 - **8 Primary Characters** (guests who want main roles)
 - **4 NPCs** (guests comfortable with supporting/clue-carrier roles)
 - **The Birthday Girl** gets her character bio with the party theme
-- **The Host** plays the Administrator/Announcer
+- **The Host** plays the **Retirement Home Director** (The stressed, cheap administrator)
 
 ---
 
@@ -81,6 +81,11 @@ Players should be collecting clues by:
 
 **Host (Administrator):**  
 *"Everyone remain calm! Nobody leaves Shady Pines until we figure out what happened! This is a CODE... uh... what color are we for murder? Never mind. Nobody move!"*
+
+**SCENE ADDITION - The Second Discovery:**
+*(5-10 minutes into the investigation)*
+**Diane (Front Desk):** 
+*"DIRECTOR! DIRECTOR! I found Sam! The detective you hired! He's... he's face down in the TV Lounge! And he's holding your overdue invoice!"*
 
 ---
 

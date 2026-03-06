@@ -2,11 +2,13 @@
 
 ## The Victim: TBD (To Be Determined by Host)
 Options for the victim:
-- **A resident** (e.g., The Curmudgeon everyone wanted in their will, The Lothario with too many enemies)
 - **A staff member** (e.g., Fitness Coordinator Gerald, who annoyed everyone by blowing his whistle during naps)
+- **The "Budget" Investigator**: (Hired by the Director to solve a petty cash theft, but found face-down in the snacks instead).
 
 ## The Discovery
 Just as someone yells "BINGO!" during the championship round, a scream erupts. The victim is found slumped over in their chair, a bingo dauber still clutched in their hand (or face-down in their early bird special meatloaf).
+
+**BUT WAIT!** During the investigation, a **second body** is discovered: The Professional Investigator (Slippery Sam) is found in the TV lounge, seemingly having "fallen" over a walker.
 
 ## The Cause of Death (Quick Summary)
 - **Official Cause**: Unknown (Initial appearance: Natural causes / heart attack).
@@ -24,3 +26,5 @@ Just as someone yells "BINGO!" during the championship round, a scream erupts. T
 - An unusual smell (almonds, prunes, or suspiciously minty breath)
 - Witness testimonies that contradict each other (due to hearing problems and memory issues)
 - The sign-in sheet showing who was where (if Diane can find it)
+- **The Investigator's Ledger**: Found near Sam's body, it contains notes about the Director's "questionable accounting."
+- **The Director's Invoice**: A past-due bill from Sam, found in the killer's pocket (or hidden in a resident's walker).
