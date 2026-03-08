@@ -1,6 +1,6 @@
-# Mr./Ms. [Your Name] - Retirement Home Director
+# Mr. James Tasker - Retirement Home Director
 
-**Age**: [Your Choice]
+**Age**: 62
 **Role**: Host / Administrator / Potential Suspect
 **Personality**: Stressed, Cheap, and Overwhelmed
 
