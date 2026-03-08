@@ -10,7 +10,7 @@ These characters have deep backstories, secrets, objectives, and are the main su
 4. **Sophia "The Curmudgeon" Petrillo** (89) - Falls asleep mid-sentence, weaponizes walker; richest resident
 5. **"Gentleman" George Sterling** (81) - Charming former banker; hiding that he's broke, courting wealthy widows
 7. **Detective Marge Cooper (Retired)** (79) - Ex-police detective; appointed herself lead investigator
-8. **Maria "LA chancla" Garcia** (80) - Enforces community "rules" with her deadly accurate slipper
+8. **Maria "La Chancla" Garcia** (80) - Enforces community "rules" with her deadly accurate slipper
 
 ### Special Guest
 9. **The Birthday Girl - [Wife's Name]** (40) - "New resident" celebrating her 40th birthday; fresh eyes on the chaos
