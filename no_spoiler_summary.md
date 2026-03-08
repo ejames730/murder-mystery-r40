@@ -8,7 +8,7 @@ This summary is designed to be shared with collaborators or potential players. I
 **Shady Pines Retirement Community**
 The year is 2026. Shady Pines is a "luxury" retirement community known for its early bird specials, competitive bingo, and residents who have lived very full (and sometimes mysterious) lives.
 
-**The Hook**: A special 40th birthday party is being held for the "youngest admittee" (your wife). The residents have decided to show her how to *really* retire. But during the Championship Bingo round, tragedy strikes!
+**The Hook**: A special 70th birthday party is being held for the "youngest admittee". The residents have decided to show her how to *really* retire. But during the Championship Bingo round, tragedy strikes!
 
 ---
 
