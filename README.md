@@ -52,7 +52,7 @@ These are the main suspects with secrets, motives, and objectives:
 - **Gentleman George** - Secretly broke, courting for money
 - **Lorenzo** - The Lothario (juggling 4+ relationships)
 - **Detective Marge** - Self-appointed investigator
-- **Birthday Girl** - Your wife! (The "new resident")
+- **Birthday Girl** - The "new resident"
 
 ### NPCs (4 Players)
 These staff members carry clues and add atmosphere:
@@ -144,5 +144,5 @@ Follow the phases in `host/timeline.md`:
 
 ---
 
-**Created for [Wife's Name]'s 40th Birthday**  
+**Created for Rochelle's 40th Birthday**  
 Welcome to Shady Pines! Where the only thing older than the residents... is the meatloaf. 🎂
