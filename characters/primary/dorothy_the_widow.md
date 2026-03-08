@@ -23,4 +23,10 @@ Keep both relationships secret AND frame one of them for the murder (whichever o
 The victim discovered her secret and threatened to reveal it at bingo night, which would ruin her reputation as the "devoted widow."
 
 ## Clue (What she knows)
-"I saw someone sneaking into the medication room right before bingo. At first I thought it was Harold's ghost, but then I remembered Harold would never wear those shoes."
+"Harold always said, 'Keep your eyes on the exit.' I was sitting in the **sunroom** when I saw someone in a frantic hurry. They were trying to shove a **heavy brass trophy** into a decorative umbrella stand near the **front entrance**. It looked like it had been dropped in a bowl of punch. And I found this—a single, pearl earring—on the floor near the victim. It's not one of mine; Harold bought me real pearls, and these are clearly generic."
+
+## Hidden Evidence (If Dorothy is the Killer)
+*   **The Evidence**: A "Mourning Veil" that is stained with what looks like vintage wine, but has the metallic scent of blood, along with a 'Dear Harold' letter detailing how she finally 'fixed' the person who threatened their legacy.
+*   **The Find**: Inside her "Harold Tribute Shelf" hidden behind a photo of a generic beach sunset.
+*   **The Link**: The veil has a small tear that matches a piece of fabric found in the victim's stiffening fingers.
+

@@ -24,4 +24,10 @@ Sabotage someone's reputation to make them look guilty OR expose the illegal act
 The victim discovered she was undercover and threatened to blow her investigation. She had to silence them.
 
 ## Clue (What she knows)
-"Well sugar, I was just freshening up my makeup in the powder room when I heard someone arguing about pills. Not the fun kind, the boring medicine kind. They were saying something about 'missing inventory' and 'you're going to get us both caught.' Very suspicious, don't you think?"
+"Well sugar, I was just freshening up my makeup in the **powder room** when I heard someone arguing just outside the window in the **conservatory**. They were saying something about 'the deal is off' and 'I'll bury you before you bury this place.' I peaked out and saw a flash of a very distinctive **neon headband**. It was quite the athletic display for such a serious conversation."
+
+## Hidden Evidence (If Blanche is the Killer)
+*   **The Evidence**: A miniature digital camera and a recording device hidden inside an oversized "costume jewelry" brooch.
+*   **The Find**: In her jewelry box, under a pile of scarves.
+*   **The Link**: The device contains a recording of the murder itself, but also reveals that Blanche was the one who lured the victim to that spot with a fake blackmail note—which matches her handwriting perfectly.
+

@@ -24,4 +24,10 @@ Sell gossip and secrets to other residents in exchange for gambling tokens. The 
 The victim was about to shut down her gambling operation and report her to the administrator.
 
 ## Clue (What she knows)
-"Oh sweetie, I heard the most INTERESTING conversation! Two people arguing about money near the medication room. Or was it the bingo hall? Or was that yesterday? Anyway, one of them said 'You'll pay for this!' Or maybe it was 'Do you want to play for this?' My hearing isn't what it used to be, dearie!"
+"Oh sweetie, I heard the most INTERESTING conversation! I was 'testing' the acoustics in the **janitor's closet** when I heard two people in the **laundry room** next door. One was crying and saying, 'It’s not my fault the numbers didn't add up!' and the other was whispering, 'It’s your fault now.' Then I heard the sound of a heavy metal door slamming. And look what I found—a small, blue **poker chip** from my own game, but it has a strange white powder on it. Very suspicious, dearie!"
+
+## Hidden Evidence (If Rose is the Killer)
+*   **The Evidence**: A "Ledger of Debts" that shows the victim owed Rose over 500 dollars (and a lot of butterscotch candies). The final entry is 'DEATH SETTLES ALL ACCOUNTS.'
+*   **The Find**: Hidden inside an empty 'Metamucil' container in her bathroom.
+*   **The Link**: The ledger is written in the same distinctive "LOUD" handwriting Rose uses on her bingo cards, and it includes a map of the victim's 'vulnerabilities.'
+

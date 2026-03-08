@@ -16,13 +16,13 @@ Diane is OBSESSED with the sign-in sheet. She mentions it constantly. She's bore
 - Starts gossip just to have something to talk about
 
 ## What She Knows (Clue Distribution)
-Diane sits at the front desk and tracks:
-- Who came and went (via the sacred sign-in sheet)
-- Who had visitors
-- What packages/deliveries arrived
-- Who was arguing in the lobby
-- Who left the building and when they returned
-- Someone signed out but never signed back in
+"Honey, I see everyone who walks through that door. I saw a **delivery** arrive at 4 PM—a heavy crate addressed to the victim, but I saw **Lorenzo** signing for it with a fake mustache on. And get this: the 'Sacred Sign-In Sheet' has a very suspicious entry from someone who 'forgot' to sign out. They signed in as 'The Inspector,' but they were wearing a **bright pink rubber slipper** on one foot. Now who could that be?"
+
+## Hidden Evidence (If Diane is the Killer)
+*   **The Evidence**: A stack of "Redirected Mail" showing that Diane has been stealing the residents' social security checks and a forged "Power of Attorney" for the victim.
+*   **The Find**: Under a false bottom in her desk drawer, marked "Confidential Office Supplies."
+*   **The Link**: One of the stolen checks has the victim's blood on the corner—she was processing it right after the deed.
+
 
 ## Character Trait
 Bored. Loves drama. Somewhat unreliable memory mixed with very accurate records. Lives vicariously through residents' lives.

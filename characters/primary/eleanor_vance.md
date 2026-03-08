@@ -14,4 +14,10 @@ She never gives a straight answer. Everything is a riddle or a "state secret." S
 Rumor has it Dr. Sterling was blackmailing her over a "youthful indiscretion" in the 1970s. She was recently seen arguing with him behind the sunroom, gesturing wildly with her cane.
 
 ## Clue (What she knows)
-"I heard a very interesting conversation between the Doctor and the Administrator. Something about 'creative accounting.' It seems our Director wasn't just enforcing rules; he was breaking them."
+"I was observing the **night sky** from the balcony when I saw a shadow moving through the **herb garden**. They were carrying a long, thin object—it looked a bit like a **walking cane**, but they weren't using it to walk. They were using it to *probe* the soft earth near the prize-winning petunias. And later, I found this—a small, silver cufflink with a 'G' engraved on it—caught in the fringe of the library rug."
+
+## Hidden Evidence (If Eleanor is the Killer)
+*   **The Evidence**: A "Vintage Fountain Pen" that is actually a concealed needle containing a lethal dose of a rare, untraceable South American toxin.
+*   **The Find**: In a secret compartment within her jewelry box, marked with a small "KGB" logo (which she claims is just a brand name).
+*   **The Link**: The victim has a single, tiny puncture wound on the back of their neck, and Eleanor's "Special Memoirs" notebook has a page with the victim's name and a "Mission Accomplished" stamp.
+

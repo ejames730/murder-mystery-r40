@@ -24,4 +24,10 @@ Solve the murder FIRST to prove she's still got it, even if it means planting ev
 The victim knew about her forced retirement and was going to tell everyone, destroying her reputation as Shady Pines' resident detective.
 
 ## Clue (What she knows)
-"According to my notes, I observed suspicious activity at 18:47 hours near the medication room. The suspect was approximately 5'6" or maybe 6'2"—my bifocals were foggy. But I'll crack this case, mark my words!"
+"In my day on the force, we called this a 'cold drop.' I found a **partially burned letter** in the **communal fireplace**. Most of it’s ash, but I can clearly make out the words 'koi pond,' 'midnight,' and 'don't be late or else.' I also noted several sets of muddy footprints leading from the garden directly to the library—one set belongs to a flat-soled shoe, very much like a nurse's sneaker."
+
+## Hidden Evidence (If Marge is the Killer)
+*   **The Evidence**: Her "Special Investigations" notebook, which contains a pre-written "Confession" that she was going to force the victim to sign at gunpoint (or walker-point).
+*   **The Find**: Tucked inside a hollowed-out "Treaty of Versailles" book in the library.
+*   **The Link**: The notebook also contains a "Hit List" of people who knew the truth about her forced retirement, with the victim's name at the top with a big 'X' through it.
+

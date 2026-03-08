@@ -24,4 +24,10 @@ To ensure that "order and respect" are maintained at Shady Pines, and to collect
 The victim not only refused to pay their gambling debt but also had the audacity to call her "just a little old lady." She decided to show them just how much a "little old lady" can do with a perfectly aimed strike to a vital point.
 
 ## Clue (What she knows)
-"La Chancla sees all. I saw that one (points to another suspect) sneaking around the medication room. I was going to throw my slipper to teach them a lesson about trespassing, but then I saw they had a needle. I don't mess with needles—they're not aerodynamic. But mark my words, that one has the heart of a thief and the aim of a blind goat."
+"La Chancla sees all. I was in the **courtyard** practicing my backhand against the wall when I saw someone in the **pharmacy office**. They weren't taking pills; they were taking a file. A big, blue folder. They tucked it into their waistband and practically ran toward the cafeteria. I was going to throw my slipper to teach them a lesson about speed limits, but they were already gone. But I saw their shoes—expensive, shiny, and completely wrong for floor-waxing night."
+
+## Hidden Evidence (If Maria is the Killer)
+*   **The Evidence**: A "Special Edition" heavy-weighted rubber slipper that has been modified with a lead core.
+*   **The Find**: Hidden in a box labeled "Jai Alai Equipment" under her bed.
+*   **The Link**: The slipper matches the exact circular indentation found on the victim's temple, and it has a faint trace of the victim's expensive hair pomade on the toe.
+

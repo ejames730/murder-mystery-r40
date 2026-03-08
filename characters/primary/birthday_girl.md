@@ -23,4 +23,10 @@ Survive her 70th birthday party / Figure out whodunit to prove she's still sharp
 As the "newest resident," she has fresh eyes on everyone. She can be the one to ultimately solve the murder or make the final accusation.
 
 ## Clue (What she knows)
-"I don't know what's normal around here, but I saw someone acting REALLY weird near [location]. Then again, everyone here seems to act weird, so maybe that IS normal?"
+"I'm the new girl, so I'm still figuring out who everyone is, but I saw someone in the **staff lounge** earlier. They were wearing a high-vis vest—probably the maintenance guy—but they were holding a very delicate, engraved silver locket. It looked way too fancy for a toolkit. And they were whispering to someone on their cell phone about 'the job being done' and 'waiting for the check.'"
+
+## Hidden Evidence (If the Birthday Girl is the Killer)
+*   **The Evidence**: A "Birthday Present" box that is supposedly from her husband, but actually contains the victim's missing wallet and a pair of latex gloves.
+*   **The Find**: In the trunk of her car (which she "forgot" to lock) or under the seat of her booth at the party.
+*   **The Link**: The gloves have a smear of cake frosting on them—the same frosting found on the victim's face where they were grabbed.
+

@@ -25,4 +25,10 @@ Figure out who's trying to get in her will for the money (everyone) and leave ev
 The victim was pressuring her to change her will in their favor and got too aggressive about it.
 
 ## Clue (What she knows)
-*wakes up from a nap* "What? Oh, the murder. Yeah, I saw someone messing with the victim's medication earlier. Or was it bingo dauber? Everything looks the same when you're 89. But I'll tell you one thing—they had shifty eyes. Like my cousin Giuseppe who stole the cannoli recipe."
+*wakes up from a nap* "What? Oh, the murder. Yeah, I saw someone 'fishing' in the **koi pond** with a pair of surgical forceps. They weren't looking for fish; they pulled out a heavy bunch of keys and a soggy, leather glove. I would have said something, but I thought it was a new activities class by that energetic boy, Gerald. Everything he does is equally nonsensical."
+
+## Hidden Evidence (If Sophia is the Killer)
+*   **The Evidence**: A "Knitting Bag" that contains no wool, but instead a heavy length of industrial wire (piano wire) and a map of where all the security cameras *don't* look.
+*   **The Find**: Under her seat in the "Quiet Room" (the library annex).
+*   **The Link**: The wire matches the distinctive ligature marks on the victim, and the map is marked with her favorite "nap spots," which happen to be perfect blind spots for the crime.
+
