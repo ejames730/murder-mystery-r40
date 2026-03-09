@@ -26,7 +26,7 @@ The year is 2026. Shady Pines is a "luxury" retirement community known for its e
 | **Lorenzo** | The Lothario | Former soap opera star. Checks his reflection in every surface and name-drops celebrities. |
 | **Marge** | The Detective | Retired police detective. Squints suspiciously at everyone and takes constant notes in a small book. |
 | **La Chancla** | The Matriarch | Enforces community rules with her deadly accurate slipper. Feared by residents and staff alike. |
-| **[Wife's Name]** | The Birthday Girl | The "spring chicken" of the facility. Trying to survive her graduation into the 40s. |
+| **Rochelle** | The Birthday Girl | The "spring chicken" of the facility. Trying to survive her graduation into the 70s. |
 
 ---
 
