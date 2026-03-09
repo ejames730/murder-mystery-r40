@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shady Pines - Murder Mystery Dashboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-dark: #0f172a;
+            --bg-card: #1e293b;
+            --accent-gold: #f59e0b;
+            --accent-crimson: #ef4444;
+            --text-main: #f8fafc;
+            --text-dim: #94a3b8;
+            --glass: rgba(30, 41, 59, 0.7);
+            --gradient-gold: linear-gradient(135deg, #f59e0b 0%, #fbbf24 100%);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Outfit', sans-serif;
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            line-height: 1.6;
+            overflow-x: hidden;
+            background-image: 
+                radial-gradient(circle at 20% 30%, rgba(245, 158, 11, 0.05) 0%, transparent 50%),
+                radial-gradient(circle at 80% 70%, rgba(239, 68, 68, 0.05) 0%, transparent 50%);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        /* Hero Styling */
+        header {
+            text-align: center;
+            padding: 4rem 1rem;
+            position: relative;
+        }
+
+        h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: clamp(3rem, 8vw, 5rem);
+            font-weight: 900;
+            letter-spacing: -2px;
+            background: var(--gradient-gold);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 0.5rem;
+            filter: drop-shadow(0 0 20px rgba(245, 158, 11, 0.3));
+        }
+
+        .subtitle {
+            font-size: 1.25rem;
+            color: var(--text-dim);
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            margin-bottom: 3rem;
+        }
+
+        /* Dashboard Grid */
+        .dashboard-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        .card {
+            background: var(--glass);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 24px;
+            padding: 2.5rem;
+            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .card:hover {
+            transform: translateY(-10px);
+            border-color: rgba(245, 158, 11, 0.4);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+        }
+
+        .card::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 4px;
+            height: 100%;
+            background: var(--gradient-gold);
+            opacity: 0;
+            transition: opacity 0.4s;
+        }
+
+        .card:hover::after {
+            opacity: 1;
+        }
+
+        h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .card p {
+            color: var(--text-dim);
+            margin-bottom: 1.5rem;
+        }
+
+        /* Button Styling */
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            padding: 0.8rem 1.5rem;
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+            color: var(--text-main);
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s;
+            cursor: pointer;
+            gap: 0.5rem;
+        }
+
+        .btn:hover {
+            background: var(--text-main);
+            color: var(--bg-dark);
+        }
+
+        .btn-primary {
+            background: var(--gradient-gold);
+            border: none;
+            color: var(--bg-dark);
+        }
+
+        .btn-primary:hover {
+            background: #fff;
+            color: var(--bg-dark);
+            transform: scale(1.05);
+        }
+
+        /* Interactive Elements */
+        .status-badge {
+            background: rgba(16, 185, 129, 0.1);
+            color: #10b981;
+            padding: 0.4rem 0.8rem;
+            border-radius: 999px;
+            font-size: 0.8rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            display: inline-block;
+            margin-bottom: 1rem;
+        }
+
+        .countdown-container {
+            margin-top: 4rem;
+            padding: 3rem;
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 32px;
+            text-align: center;
+        }
+
+        .feature-icon {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+        }
+
+        /* Animations */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .animate {
+            animation: fadeIn 0.8s ease forwards;
+        }
+
+        .delay-1 { animation-delay: 0.2s; }
+        .delay-2 { animation-delay: 0.4s; }
+        .delay-3 { animation-delay: 0.6s; }
+
+        @media (max-width: 768px) {
+            .dashboard-grid {
+                grid-template-columns: 1fr;
+            }
+            h1 { font-size: 3.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="animate">
+            <div class="status-badge">Private Event - System Active</div>
+            <h1>Shady Pines</h1>
+            <p class="subtitle">Official Murder Mystery Dashboard</p>
+        </header>
+
+        <main class="dashboard-grid">
+            <!-- Story & Rules -->
+            <section class="card animate delay-1">
+                <div class="feature-icon">📜</div>
+                <h2>The Case File</h2>
+                <p>Explore the background of the Shady Pines facility and the unfortunate tragedy that occurred during the BINGO championship.</p>
+                <div style="display: flex; gap: 1rem;">
+                    <a href="story/background.md" class="btn">History</a>
+                    <a href="story/the_murder.md" class="btn">Crime Details</a>
+                </div>
+            </section>
+
+            <!-- Characters -->
+            <section class="card animate delay-2">
+                <div class="feature-icon">👤</div>
+                <h2>The Suspects</h2>
+                <p>Browse the primary residents and staff. Each has a profile, a secret, and a potential motive for murder.</p>
+                <a href="characters/manifest.md" class="btn btn-primary">View Manifest &rarr;</a>
+            </section>
+
+            <!-- Clues (Protected Area) -->
+            <section class="card animate delay-3">
+                <div class="feature-icon">🔍</div>
+                <h2>Clue Database</h2>
+                <p>Access the central repository of evidence. (Note: Contains high-level spoilers for investigators only).</p>
+                <a href="clues/database.md" class="btn">Open Database</a>
+            </section>
+
+            <!-- Handouts -->
+            <section class="card animate delay-1">
+                <div class="feature-icon">🎫</div>
+                <h2>Game Handouts</h2>
+                <p>Download character selection sheets, player tracking forms, and staff mad-libs for your guests.</p>
+                <a href="handouts/" class="btn">Browse Assets</a>
+            </section>
+
+            <!-- Host Controls -->
+            <section class="card animate delay-2">
+                <div class="feature-icon">🔑</div>
+                <h2>Host Controls</h2>
+                <p>Access the D100 Cheat Sheet, timeline management, and scoring rules. (Strictly for the Director).</p>
+                <a href="host/d100_killer_cheat_sheet.md" class="btn">Director Access</a>
+            </section>
+        </main>
+
+        <footer style="margin-top: 6rem; text-align: center; color: var(--text-dim); padding-bottom: 2rem;">
+            <p>&copy; 2026 Shady Pines Retirement Community. All rights reserved. <br> "Where the golden years... aren't always bright."</p>
+        </footer>
+    </div>
+</body>
+</html>
