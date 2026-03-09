@@ -1,76 +1,75 @@
 # Clue Database - Shady Pines Edition
 
-This file tracks all the clues, who has them, and where they are found.
+This file tracks all the clues, who has them, the hidden evidence for each potential killer, and the physical locations of the crime.
 
 ## Clue Distribution by Character
 
 ### Primary Residents (Player Characters)
 
-| Character | What They Know |
-|-----------|----------------|
-| **Dorothy (The Widow)** | Saw someone sneaking into medication room (thought it was Harold's ghost) |
-| **Rose (The Gossip)** | Overheard argument about money OR pills near medication room/bingo hall (unclear due to hearing) |
-| **Blanche (The Flirt)** | Overheard argument in powder room about "missing inventory" and "getting caught" |
-| **Sophia (The Curmudgeon)** | Saw someone tampering with victim's medication or bingo dauber (shifty eyes!) |
-| **Gentleman George** | Witnessed someone rifling through medication cabinet (couldn't intervene due to sciatica) |
-| **Lorenzo (The Lothario)** | Saw suspicious activity in medication room but was too busy primping for bingo |
-| **LA chancla** | Saw Sam (the investigator) arguing with someone near the TV lounge; was ready to throw a slipper but didn't want to hit a "pro" |
-| **Detective Marge** | Has "detailed notes" about suspicious activity at medication room (but observations are questionable) |
-| **Birthday Girl** | Fresh eyes—notices someone acting weird but doesn't know what's "normal" at Shady Pines |
-| **Director (Host)** | Knows the true cost of everything; hired Sam to investigate petty theft; owes Sam money |
+| Character | What They Know (Clue) | Specific Location Mentioned |
+|-----------|-----------------------|-----------------------------|
+| **Arthur (The General)** | Heard vent rattling; saw neon sneakers retreating. | Boiler Room / Maintenance Shaft |
+| **George (The Gentleman)** | Found shattered vial (bitter almonds) and silk scarf. | Rose Garden / Fountain |
+| **Lorenzo (The Lover)** | Saw bloody overalls in bleach; found "Employee of the Month" pin. | Laundry Room |
+| **Rose (The Gossip)** | Overheard "The numbers didn't add up" argument; found powdered poker chip. | Janitor's Closet / Laundry Room |
+| **Sophia (The Curmudgeon)** | Saw someone "fishing" with forceps for keys and a leather glove. | Koi Pond |
+| **Penny (The Nurse)** | Tampered panic button; backup fridge used for "expensive wine." | Director's Office / Medical Fridge |
+| **Eleanor (The Enigma)** | Saw a shadow probing the earth with a long object; found "G" cufflink. | Herb Garden / Library |
+| **Marge (The Detective)** | Found partially burned letter ("midnight at koi pond") and muddy footprints. | Communal Fireplace / Library |
+| **Dorothy (The Widow)** | Saw someone hiding a brass trophy in an umbrella stand; found pearl earring. | Sunroom / Front Entrance |
+| **Birthday Girl** | Saw high-vis vest person with a silver locket whispering on a cell phone. | Staff Lounge |
+| **James (The Director)** | Saw someone burning a jade cat statue covered in "something dark." | Basement Storage / Incinerator |
 
-### Staff NPCs (Clue Carriers)
+### Staff & NPCs
 
-| Staff Member | What They Know | How to Get the Info |
-|--------------|----------------|---------------------|
-| **Nurse Margaret** | Who was near medication room; someone stealing from donation box; residents arguing about pills | Let her check your blood pressure; listen to complaints |
-| **Gerald (Activities)** | Who skipped bingo; who was fighting before bingo; attendance records | Agree to attend chair yoga; ask about his clipboard |
-| **Frank (Handyman)** | Arguments overheard through walls; who sneaks into restricted areas; something hidden in mechanical room | Ask 3+ times ("Eh?"); speak into hearing aid |
-| **Diane (Front Desk)** | Who came/went via sign-in sheet; visitor logs; someone never signed back in | Sign in properly; listen to her stories; trade gossip |
+| Staff Member | What They Know (Clue) | Location |
+|--------------|-----------------------|----------|
+| **Frank (Handyman)** | Saw someone dripping liquid into the ventilation fan; found a purple knitting needle. | Attic / Ventilation System |
+| **Gerald (Activities)** | Saw someone in a hospital gown and combat boots dragging a lumpy laundry bag. | North Wing / Elevator |
+| **Diane (Front Desk)** | Saw Lorenzo in a fake mustache signing for a crate; "The Inspector" (pink slipper) sign-in. | Front Desk / Lobby |
+| **Nurse Margaret** | Surgical shears missing; saw someone pouring "Happy Heart" vitamins into the punch. | Infirmary / Dining Room |
+| **Agatha (Novelists)** | Saw clerk handing a guest key to a "doctor" in neon-green shoes. | Lobby / Front Desk |
 
-## Physical Clues / Props
+---
 
-| Clue | Location | Description |
-|------|----------|-------------|
-| Missing Medication Vial | Medication Room | Empty spot in locked cabinet where sedative should be |
-| Sign-In Sheet | Front Desk | Shows who left/returned—one person didn't sign back in |
-| Bingo Card | Victim's seat | Victim was one number away from BINGO (suspicious timing!) |
-| Medication Log | Nurse's Station | Forged or rushed signature for missing vial |
-| Gerald's Attendance Sheet | Activity Room | Shows who was (and wasn't) at various activities |
-| Werther's Original Bowl | Front Desk | One candy looks different/suspiciously placed |
-| Sam's Ledger | Near 2nd Body | Contains notes on "Director's skimmings" and "Suspect #1" |
-| Overdue Invoice | Sam's Hand | A bill for Sam's services, addressed to the Director, with "URGENT - PAY OR I TALK" written on it |
-| Love Letter / Blackmail Note | In victim's pocket | From someone with motive (Host decides) |
+## Hidden Evidence (Lock-In for Potential Killers)
+*Use these only if you pick this character to be the murderer.*
 
-## Retirement Home Locations for Investigation
+| Character | The Evidence | Where to Find It |
+|-----------|--------------|------------------|
+| **Arthur** | After Action Report detailing the "elimination." | False bottom of his army footlocker. |
+| **George** | Pre-signed wills (including the victim's). | Lining of his velour tracksuit jacket. |
+| **Lorenzo** | Stage prop dagger replaced with real razors. | Walker's storage pouch (wrapped in headshot). |
+| **James** | Empty "Social Fund" ledger; blackmail payment. | "Budget Savings" safe in office (code 0000). |
+| **Rose** | Ledger of Debts: "DEATH SETTLES ALL ACCOUNTS." | Empty Metamucil container in her bathroom. |
+| **Sophia** | Industrial piano wire and "Blind Spot" map. | Under seat in Library Annex (Quiet Room). |
+| **Penny** | Tampered "Code Blue" kit (paralyzing agent). | Personal locker (inside double-bottomed bag). |
+| **Eleanor** | Fountain pen with concealed lethal needle. | Secret compartment in jewelry box. |
+| **Marge** | Pre-written "Confession" and Hit List. | Hollowed-out book (*Treaty of Versailles*) in Library. |
+| **Dorothy** | Blood-stained mourning veil; confession letter. | Harold Tribute Shelf (behind generic photo). |
+| **Birthday Girl** | Victim's wallet and frosting-stained gloves. | Trunk of her car or under her booth. |
+| **Frank** | Master Key; dossier of compromising photos. | Hollowed-out "Home Repair" manual in closet. |
+| **Gerald** | Workout Log tracking nurse response times. | Under the driver's seat of his car. |
+| **Diane** | Stolen SS checks; blood-stained forged POA. | False bottom in desk drawer. |
+| **Margaret** | Nurse's Log of 'Mercy Killings.' | Box of oversized diapers in supply closet. |
+| **Chef Beatrice** | Concentrated Extract of Bitter Almonds. | Behind "Generic Flour" in the pantry. |
+| **La Chancla** | Lead-cored modified rubber slipper. | "Jai Alai Equipment" box under her bed. |
 
-1. **Medication Room** - Where most suspicious activity occurred
-2. **Bingo Hall** - Where the murder was discovered
-3. **Front Desk** - Diane's sign-in sheet records
-4. **Nurse's Station** - Medication logs and records
-5. **Activity Room** - Gerald's attendance records
-6. **Shuffleboard Court** - Outdoor venue for secret meetings
-7. **TV Lounge** - Where residents gossip and overhear things
-8. **Dining Hall** - Early bird special meatloaf scene
-9. **Mechanical Room** - Frank saw something hidden here
+---
+
+## Key Locations for Investigation
+
+1.  **Koi Pond**: Focus of Marge’s letter and Sophia's forceps sighting.
+2.  **Laundry Room**: Bloody overalls, white powder, and heated arguments.
+3.  **The Attic/Ventilation**: Sabotage point for poisons/tampering.
+4.  **Boiler Room/Basement**: Where Tasker saw the burning and Arthur heard movement.
+5.  **Herb/Rose Gardens**: Probing grounds and shattered vials.
+6.  **The Library**: Master footprints and hidden books.
+7.  **Director's Office**: The tampered panic button and the safe.
 
 ## The Truth (For Host Only)
 
-**The Killer**: [Host decides based on party dynamics]
+**Step 1**: Randomly select one character from the **Hidden Evidence** table above.
+**Step 2**: Place the "Find" location in the game world.
+**Step 3**: The clues from other characters will lead the investigators to various red herrings, but ONLY the "Hidden Evidence" provides the 100% link to the killer.
 
-**Suggested Killer Options**:
-- **The Director (Host)**: Skimming funds for the wife's birthday; killed Sam to keep him quiet (and save on the fee).
-- One of Dorothy's boyfriends (Bernie or Sal) who discovered her two-timing
-- Someone trying to get into Sophia's will
-- Blanche covering her undercover investigation
-- Lorenzo's jilted lover
-- Someone Rose was blackmailing with her gambling ring secrets
-
-**The Method**: [Host chooses from the murder methods in `the_murder.md`]
-
-**The Evidence Trail**:
-1. Missing medication vial from medication room
-2. Victim was poisoned via [chosen method]
-3. Multiple witnesses saw suspicious activity but with conflicting details
-4. Sign-in sheet, attendance records, and medication logs provide timeline
-5. The killer made ONE mistake that reveals them

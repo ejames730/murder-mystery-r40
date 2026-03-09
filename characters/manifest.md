@@ -37,7 +37,7 @@ These characters provide clues and atmosphere through natural interaction.
 | The Flirt | Blanche | "Forgets" glasses to lean in close | Undercover investigator |
 | The Curmudgeon | Sophia | Falls asleep, weaponizes walker | Richest resident, changing will |
 | The Gentleman | George | Quotes poetry, kisses hands | Broke, courting for money |
-| The Lothario | Lorenzo | Checks reflections, name-drops | Multiple affairs |
+| The Lover | Lorenzo | Checks reflections, name-drops | Multiple affairs |
 | The Detective | Marge | Takes notes constantly | Forced into retirement |
 | The Matriarch | La Chancla | Slipper ALWAYS in hand | Former championship jai alai player |
 | The New Resident | Birthday Girl | Out of place | It's her party! |
