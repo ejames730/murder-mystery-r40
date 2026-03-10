@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shady Pines - Guest Portal</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --bg-dark: #0f172a;
+            --bg-card: #1e293b;
+            --accent-gold: #f59e0b;
+            --text-main: #f8fafc;
+            --text-dim: #94a3b8;
+            --glass: rgba(30, 41, 59, 0.7);
+            --gradient-gold: linear-gradient(135deg, #f59e0b 0%, #fbbf24 100%);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Outfit', sans-serif;
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            line-height: 1.6;
+            background-image:
+                radial-gradient(circle at 20% 30%, rgba(245, 158, 11, 0.05) 0%, transparent 50%),
+                radial-gradient(circle at 80% 70%, rgba(239, 68, 68, 0.05) 0%, transparent 50%);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        header {
+            text-align: center;
+            padding: 4rem 1rem;
+        }
+
+        h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: clamp(3rem, 8vw, 5rem);
+            font-weight: 900;
+            background: var(--gradient-gold);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 0.5rem;
+        }
+
+        .subtitle {
+            font-size: 1.25rem;
+            color: var(--text-dim);
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            margin-bottom: 3rem;
+        }
+
+        .dashboard-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 2rem;
+        }
+
+        .card {
+            background: var(--glass);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 24px;
+            padding: 2.5rem;
+            transition: all 0.4s;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            border-color: rgba(245, 158, 11, 0.4);
+        }
+
+        h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            color: var(--accent-gold);
+        }
+
+        .btn {
+            display: inline-flex;
+            padding: 0.8rem 1.5rem;
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+            color: var(--text-main);
+            text-decoration: none;
+            font-weight: 600;
+            margin: 0.5rem 0.5rem 0.5rem 0;
+        }
+
+        .btn-primary {
+            background: var(--gradient-gold);
+            color: var(--bg-dark);
+            border: none;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Shady Pines</h1>
+            <p class="subtitle">Guest Admission Portal</p>
+        </header>
+
+        <main class="dashboard-grid">
+            <section class="card">
+                <h2>📜 Welcome to the Home</h2>
+                <p>New to Shady Pines? Read the official welcome guide and learn about our residents before the big
+                    party.</p>
+                <a href="reader.html?file=story/intro.md" class="btn btn-primary">Start Reading</a>
+            </section>
+
+            <section class="card">
+                <h2>👤 The Residents</h2>
+                <p>Public dossiers on every permanent resident. Learn their quirks and backgrounds.</p>
+                <a href="reader.html?file=dossiers/manifest.md" class="btn">Character List</a>
+            </section>
+
+            <section class="card">
+                <h2>🎫 Party Handouts</h2>
+                <p>Preparing for the event? Download your tracking sheets and character mad-libs here.</p>
+                <a href="reader.html?file=handouts/selection.md" class="btn">Character Selection</a>
+                <a href="reader.html?file=handouts/tracking.md" class="btn">Detective's Log</a>
+                <a href="reader.html?file=handouts/madlibs.md" class="btn">Mad-Libs</a>
+            </section>
+        </main>
+
+        <footer style="margin-top: 6rem; text-align: center; color: var(--text-dim);">
+            <p>&copy; 2026 Shady Pines - Spoiler Free Zone</p>
+        </footer>
+    </div>
+</body>
+
+</html>
