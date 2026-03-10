@@ -30,7 +30,7 @@ We are hosting a murder mystery party for [Wife's Name]'s 40th birthday, and we 
 *   **Sophia (The Curmudgeon)**: Tiny, fierce, and weaponizes her walker. Known for falling asleep mid-insult.
 *   **LA chancla (The Matriarch)**: The self-appointed enforcer. Feared by all for her deadly accurate flying slipper.
 *   **George (The Gentleman)**: A charming former banker. Quotes poetry and always has a spare handkerchief.
-*   **Lorenzo (The Lothario)**: A former soap star who checks his reflection in every spoon and name-drops celebrities.
+*   **Lorenzo (The Lover)**: A former soap star who checks his reflection in every spoon and name-drops celebrities.
 *   **Marge (The Detective)**: A retired cop who squints at everyone and takes notes in a tiny book.
 
 ### 🏥 The Staff (NPCs)

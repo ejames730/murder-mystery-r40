@@ -24,7 +24,7 @@ murder-mystery-r40/
 │   │   ├── blanche_the_flirt.md
 │   │   ├── sophia_the_curmudgeon.md
 │   │   ├── gentleman_george.md
-│   │   ├── lorenzo_the_lothario.md
+│   │   ├── lorenzo_the_lover.md
 │   │   ├── detective_marge.md
 │   │   └── birthday_girl.md
 │   └── secondary/              # 4 staff NPCs (clue carriers)
@@ -50,7 +50,7 @@ These are the main suspects with secrets, motives, and objectives:
 - **Blanche** - The Flirt (undercover investigator)
 - **Sophia** - The Curmudgeon (richest resident, changes will constantly)
 - **Gentleman George** - Secretly broke, courting for money
-- **Lorenzo** - The Lothario (juggling 4+ relationships)
+- **Lorenzo** - The Lover (juggling 4+ relationships)
 - **Detective Marge** - Self-appointed investigator
 - **Birthday Girl** - The "new resident"
 

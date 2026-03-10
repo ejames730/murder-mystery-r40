@@ -23,7 +23,7 @@ The year is 2026. Shady Pines is a "luxury" retirement community known for its e
 | **Blanche** | The Flirt | Southern belle aesthetic. "Forgets" her glasses to lean in close to the gentlemen. |
 | **Sophia** | The Curmudgeon | Tiny, fierce, and weaponizes her walker. Known for falling asleep mid-sentence. |
 | **George** | The Gentleman | Distinguished former banker. Quotes poetry and offers a handkerchief for every occasion. |
-| **Lorenzo** | The Lothario | Former soap opera star. Checks his reflection in every surface and name-drops celebrities. |
+| **Lorenzo** | The Lover | Former soap opera star. Checks his reflection in every surface and name-drops celebrities. |
 | **Marge** | The Detective | Retired police detective. Squints suspiciously at everyone and takes constant notes in a small book. |
 | **La Chancla** | The Matriarch | Enforces community rules with her deadly accurate slipper. Feared by residents and staff alike. |
 | **Rochelle** | The Birthday Girl | The "spring chicken" of the facility. Trying to survive her graduation into the 70s. |
