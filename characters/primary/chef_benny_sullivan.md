@@ -1,17 +1,18 @@
-# Chef Beatrice "Salty" Sullivan
+# Chef Benny "Salty" Sullivan
 
 **Age**: 72
 **Role**: Primary Resident / Suspect
+**Played by**: [Friend]
 **Past Occupation**: Executive Chef at a 3-Michelin Star Restaurant.
 
 ## Profile
-Beatrice is sharp-tongued and even sharper with a whisk. She was forced into retirement after a "unfortunate incident" involving a critic and a truffle shaver. She spends her days critiquing the facility's menu.
+Benny is sharp-tongued and even sharper with a whisk. He was forced into retirement after an "unfortunate incident" involving a critic and a truffle shaver. He spends his days critiquing the facility's menu, often loudly and in the presence of the actual kitchen staff.
 
 ## Quirk
-Refines everything with a "pinch of salt" (which she carries in a small pouch). She refuses to eat anything that hasn't been "deconstructed."
+Refines everything with a "pinch of salt" (which he carries in a small pouch). He refuses to eat anything that hasn't been "deconstructed." He often treats mealtime like a high-stakes cooking competition, judging everyone else's plate choice.
 
 ## Motive
-Dr. Sterling banned her from the kitchen after she tried to "re-index" the pantry. He threatened to have her transferred to "The Silver Lining"—a facility known for serving nothing but lukewarm oatmeal.
+The victim banned Benny from the kitchen after he tried to "re-index" the entire pantry. They also threatened to have him transferred to "The Silver Lining"—a facility known for serving nothing but lukewarm oatmeal and pureed peas. Benny decided that a "final meal" was the only appropriate response.
 
 ## Clue (What she knows)
 "I was in the **cold storage** looking for the 'reserve' caviar when I saw someone in the kitchen who certainly didn't belong. They were pouring a heavy liquid into the industrial blender—the one we use for the 'smooth' diets. It wasn't organic, that's for sure. It smelled like industrial cleaner. I would have reported it, but I was busy deconstructing a grape."

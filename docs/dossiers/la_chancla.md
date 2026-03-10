@@ -2,6 +2,7 @@
 
 **Age**: 80
 **Role**: Primary Resident / Suspect
+**Played by**: Angelica
 **Past Occupation**: Former Professional Jai Alai Player (retired)
 
 ## Profile

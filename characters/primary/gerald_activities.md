@@ -1,11 +1,12 @@
 # Gerald "The Spark" Miller - Activities Director
 
 **Age**: 38
-**Role**: NPC / Staff Member
+**Role**: Primary Character / Staff Member
+**Played by**: Jared
 **Occupation**: Fitness & Wellness Coordinator at Shady Pines (Self-styled "Senior Games Coach").
 
 ## Profile
-Gerald is relentlessly upbeat, aggressively energetic, and completely oblivious to the fact that his "target demographic" mostly just wants to nap. He views Shady Pines as a high-performance training facility and himself as an elite coach. However, Gerald’s "toxic positivity" is a frantic mask. He is a man who suffered a massive nervous breakdown while working as a high-stakes corporate recruiter and has dedicated himself to "fixing" others to avoid fixing himself. Every whistle-blow is a heartbeat of his own anxiety being kept at bay.
+Gerald is relentlessly upbeat, aggressively energetic, and completely oblivious to the fact that his "target demographic" mostly just wants to nap. He views Shady Pines as a high-performance training facility and himself as an elite coach. There are rumors among the residents that his whistle-blowing is actually a distraction from a crumbling personal life, but Gerald would tell you it's just to "reset the vibe."
 
 ## Quirks
 - "That's totally rad, my dudes! Who's ready for some BURPEE BINGO?!"
@@ -22,6 +23,9 @@ Gerald is actually living in his car in the facility's back parking lot because 
 - **Lorenzo**: Gerald idolizes Lorenzo because he represents the "Old Hollywood" glamour Gerald loves. He often asks Lorenzo for "acting tips" (which Lorenzo loves).
 - **Sophia**: She is his "White Whale." He is determined to make her smile or participate in one activity. Her constant rejection fuels his manic energy.
 - **Dr. Sterling**: Gerald is terrified of the Director. He knows his "performance" is the only thing keeping him employed and off the streets.
+
+## Motive (if he's the killer)
+The victim was the one person who saw through Gerald’s "high-energy coach" persona. They were complaining to the Director that Gerald was mentally unstable and "unfit for the facility." If Gerald loses this job, he loses the only thing keeping him from total collapse and homelessness.
 
 ## What He Knows (Clue Distribution)
 "Bro, it was totally weird! I was doing my 11 PM 'Sleep-Check Sprint' through the **north wing** and I saw someone in a hospital gown—except they were wearing heavy combat boots. Talk about a fashion faux pas! They were dragging a heavy laundry bag toward the **elevator**. It had a very... 'body-shaped' lumpy quality to it. I thought it was just a lot of towels!"

@@ -34,9 +34,16 @@ def sanitize_md(content):
             
     return '\n'.join(public_lines)
 
-def process_dir(src_dir, dest_dir):
+import shutil
+
+def process_dir(src_dir, dest_dir, clean=False):
     if not os.path.exists(dest_dir):
         os.makedirs(dest_dir)
+    elif clean:
+        print(f"Cleaning: {dest_dir}")
+        for f in os.listdir(dest_dir):
+            if f != 'manifest.md': # Keep the manifest if it's there
+                os.remove(os.path.join(dest_dir, f))
         
     print(f"Processing: {src_dir} -> {dest_dir}")
     for filename in os.listdir(src_dir):
@@ -53,7 +60,7 @@ def process_dir(src_dir, dest_dir):
 
 # Paths
 base_dir = os.path.dirname(os.path.abspath(__file__))
-process_dir(os.path.join(base_dir, 'characters', 'primary'), os.path.join(base_dir, 'docs', 'dossiers'))
+process_dir(os.path.join(base_dir, 'characters', 'primary'), os.path.join(base_dir, 'docs', 'dossiers'), clean=True)
 process_dir(os.path.join(base_dir, 'characters', 'secondary'), os.path.join(base_dir, 'docs', 'dossiers'))
 
 # Handle host_director.md separately if it exists
