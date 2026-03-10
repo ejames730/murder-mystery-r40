@@ -282,18 +282,24 @@
                 .then(markdown => {
                     // Custom renderer to fix relative links inside markdown
                     const renderer = new marked.Renderer();
-                    renderer.link = (href, title, text) => {
-                        if (href.endsWith('.md')) {
-                            // If we are in dossiers, we don't want to double up reader.html
+                    renderer.link = (linkObj) => {
+                        // In newer versions of marked, the first argument is an object
+                        let href = typeof linkObj === 'string' ? linkObj : linkObj.href;
+                        let text = typeof linkObj === 'string' ? '' : linkObj.text;
+
+                        if (href && href.endsWith('.md')) {
+                            // If the link is a relative path (e.g. "general_montgomery.md") 
+                            // and we are already in the dossiers folder, we need to preserve that context
                             return `<a href="reader.html?file=${href}">${text}</a>`;
                         }
-                        return `<a href="${href}">${text}</a>`;
+                        return `<a href="${href}">${text || ''}</a>`;
                     };
 
                     contentDiv.innerHTML = marked.parse(markdown, { renderer });
                     document.title = `Shady Pines - ${fileName.split('/').pop().replace('.md', '')}`;
                 })
                 .catch(err => {
+                    console.error(err);
                     contentDiv.innerHTML = `<h1>Error</h1><p>The requested file could not be found or read. Please check the path and try again.</p><p style="color:var(--accent-crimson)">${err.message}</p>`;
                 });
         } else {
