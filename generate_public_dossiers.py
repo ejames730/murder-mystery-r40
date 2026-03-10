@@ -49,13 +49,16 @@ def process_dir(src_dir, dest_dir):
                 f.write(sanitized)
 
 # Paths
-base_dir = r'C:\Users\james\vscode\personal\murder-mystery-r40'
-process_dir(os.path.join(base_dir, 'characters', 'primary'), os.path.join(base_dir, 'public', 'dossiers'))
-process_dir(os.path.join(base_dir, 'characters', 'secondary'), os.path.join(base_dir, 'public', 'dossiers'))
-# Handle host_director.md separately
-with open(os.path.join(base_dir, 'characters', 'host_director.md'), 'r', encoding='utf-8') as f:
-    host_content = sanitize_md(f.read())
-with open(os.path.join(base_dir, 'public', 'dossiers', 'host_director.md'), 'w', encoding='utf-8') as f:
-    f.write(host_content)
+base_dir = os.path.dirname(os.path.abspath(__file__))
+process_dir(os.path.join(base_dir, 'characters', 'primary'), os.path.join(base_dir, 'docs', 'dossiers'))
+process_dir(os.path.join(base_dir, 'characters', 'secondary'), os.path.join(base_dir, 'docs', 'dossiers'))
+
+# Handle host_director.md separately if it exists
+host_src = os.path.join(base_dir, 'characters', 'host_director.md')
+if os.path.exists(host_src):
+    with open(host_src, 'r', encoding='utf-8') as f:
+        host_content = sanitize_md(f.read())
+    with open(os.path.join(base_dir, 'docs', 'dossiers', 'host_director.md'), 'w', encoding='utf-8') as f:
+        f.write(host_content)
 
 print("Public dossiers generated successfully!")
