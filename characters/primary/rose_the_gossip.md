@@ -5,7 +5,7 @@
 **Past Occupation**: Telephone Operator (for 46 years!)
 
 ## Profile
-Rose is sweet, seemingly naive, and EXTREMELY LOUD. She can't remember anyone's name so she calls everyone "dearie," "sweetie," or "the one with the thing." But don't let her scatter-brained exterior fool you—she's the information broker of Shady Pines, running an illegal gambling ring out of the card room. **TEST NOTE: Currently trying to knit a Shady Pines scarf for every resident.**
+Rose is sweet, seemingly naive, and EXTREMELY LOUD. She can't remember anyone's name so she calls everyone "dearie," "sweetie," or "the one with the thing." But don't let her scatter-brained exterior fool you—she's the information broker of Shady Pines, running an illegal gambling ring out of the card room. TEST NOTE: Currently trying to knit a Shady Pines scarf for every resident.
 
 ## Quirks
 - Speaks at a volume appropriate for a football stadium
