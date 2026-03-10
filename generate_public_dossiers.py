@@ -38,6 +38,7 @@ def process_dir(src_dir, dest_dir):
     if not os.path.exists(dest_dir):
         os.makedirs(dest_dir)
         
+    print(f"Processing: {src_dir} -> {dest_dir}")
     for filename in os.listdir(src_dir):
         if filename.endswith('.md'):
             with open(os.path.join(src_dir, filename), 'r', encoding='utf-8') as f:
@@ -45,8 +46,10 @@ def process_dir(src_dir, dest_dir):
             
             sanitized = sanitize_md(content)
             
-            with open(os.path.join(dest_dir, filename), 'r+' if os.path.exists(os.path.join(dest_dir, filename)) else 'w', encoding='utf-8') as f:
+            # Use 'w' to ensure file is truncated and overwritten completely
+            with open(os.path.join(dest_dir, filename), 'w', encoding='utf-8') as f:
                 f.write(sanitized)
+                print(f"  Generated: {filename}")
 
 # Paths
 base_dir = os.path.dirname(os.path.abspath(__file__))
@@ -60,5 +63,6 @@ if os.path.exists(host_src):
         host_content = sanitize_md(f.read())
     with open(os.path.join(base_dir, 'docs', 'dossiers', 'host_director.md'), 'w', encoding='utf-8') as f:
         f.write(host_content)
+        print("  Generated: host_director.md")
 
 print("Public dossiers generated successfully!")
