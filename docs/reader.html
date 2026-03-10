@@ -10,7 +10,8 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap"
         rel="stylesheet">
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <!-- Using a specific version to ensure compatibility -->
+    <script src="https://cdn.jsdelivr.net/npm/marked@12.0.0/marked.min.js"></script>
     <style>
         :root {
             --bg-dark: #0f172a;
@@ -274,6 +275,10 @@
         const fileName = urlParams.get('file');
 
         if (fileName) {
+            // Get base path (e.g., "dossiers/")
+            const pathParts = fileName.split('/');
+            const baseFolder = pathParts.length > 1 ? pathParts.slice(0, -1).join('/') + '/' : '';
+
             fetch(fileName)
                 .then(response => {
                     if (!response.ok) throw new Error('File not found');
@@ -282,25 +287,35 @@
                 .then(markdown => {
                     // Custom renderer to fix relative links inside markdown
                     const renderer = new marked.Renderer();
-                    renderer.link = (linkObj) => {
-                        // In newer versions of marked, the first argument is an object
-                        let href = typeof linkObj === 'string' ? linkObj : linkObj.href;
-                        let text = typeof linkObj === 'string' ? '' : linkObj.text;
+
+                    // Defensive link renderer
+                    renderer.link = function (tokenOrHref, title, text) {
+                        let href = "";
+                        let linkText = "";
+
+                        // Handle both old and new marked.js parameter styles
+                        if (typeof tokenOrHref === 'object' && tokenOrHref !== null) {
+                            href = tokenOrHref.href || "";
+                            linkText = tokenOrHref.text || "";
+                        } else {
+                            href = tokenOrHref || "";
+                            linkText = text || "";
+                        }
 
                         if (href && href.endsWith('.md')) {
-                            // If the link is a relative path (e.g. "general_montgomery.md") 
-                            // and we are already in the dossiers folder, we need to preserve that context
-                            return `<a href="reader.html?file=${href}">${text}</a>`;
+                            // If it's a relative link (no slashes), prepend the baseFolder
+                            const finalPath = href.includes('/') ? href : baseFolder + href;
+                            return `<a href="reader.html?file=${finalPath}">${linkText}</a>`;
                         }
-                        return `<a href="${href}">${text || ''}</a>`;
+                        return `<a href="${href}">${linkText}</a>`;
                     };
 
                     contentDiv.innerHTML = marked.parse(markdown, { renderer });
                     document.title = `Shady Pines - ${fileName.split('/').pop().replace('.md', '')}`;
                 })
                 .catch(err => {
-                    console.error(err);
-                    contentDiv.innerHTML = `<h1>Error</h1><p>The requested file could not be found or read. Please check the path and try again.</p><p style="color:var(--accent-crimson)">${err.message}</p>`;
+                    console.error("Reader Error:", err);
+                    contentDiv.innerHTML = `<h1>Error</h1><p>The requested file could not be found or read.</p><p style="color:var(--accent-crimson)">${err.message}</p>`;
                 });
         } else {
             contentDiv.innerHTML = `<h1>No File Specified</h1><p>Please select a file from the dashboard.</p>`;
