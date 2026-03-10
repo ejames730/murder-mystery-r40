@@ -26,7 +26,7 @@ Use this as your master guide for running the dinner party.
 
 ### 🎭 OPENING SCENE
 **Host (as Administrator):**  
-*"Welcome to Shady Pines Retirement Community! We have a very special new resident joining us today—[Wife's Name], who is celebrating her FORTIETH birthday! Let's all make her feel... at home."*
+*"Welcome to Shady Pines Retirement Community! We have a very special new resident joining us today—Rochelle, who is celebrating her FORTIETH birthday! Let's all make her feel... at home."*
 
 ### Activities
 - Guests receive character bios
@@ -143,7 +143,7 @@ Players should be collecting clues by:
 
 ### Transition Back to Birthday Party
 **Host:**  
-*"Well, we've solved one mystery tonight. The other mystery is how [Wife's Name] is ONLY 40! Let's celebrate!"*
+*"Well, we've solved one mystery tonight. The other mystery is how Rochelle is ONLY 40! Let's celebrate!"*
 
 ### Activities
 - Break character (or stay in character if it's funnier)

@@ -2,7 +2,7 @@
 
 Hello future resident (or staff member) of **Shady Pines Retirement Community!**
 
-We are hosting a murder mystery party for [Wife's Name]'s 40th birthday, and we need YOU to help bring the chaos to life. Please take a look at the roles below and let us know what kind of character you'd like to play and how much "work" you want to do.
+We are hosting a murder mystery party for Rochelle's 40th birthday, and we need YOU to help bring the chaos to life. Please take a look at the roles below and let us know what kind of character you'd like to play and how much "work" you want to do.
 
 ---
 
