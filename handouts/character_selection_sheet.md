@@ -28,7 +28,7 @@ We are hosting a murder mystery party for [Wife's Name]'s 40th birthday, and we 
 *   **Rose (The Gossip)**: Sweet, loud, and can't remember anyone's name. She hears everything (or thinks she does).
 *   **Blanche (The Flirt)**: A Southern belle who "forgets" her glasses to get closer to the handsome gentlemen.
 *   **Sophia (The Curmudgeon)**: Tiny, fierce, and weaponizes her walker. Known for falling asleep mid-insult.
-*   **LA chancla (The Matriarch)**: The self-appointed enforcer. Feared by all for her deadly accurate flying slipper.
+*   **La chancla (The Matriarch)**: The self-appointed enforcer. Feared by all for her deadly accurate flying slipper.
 *   **George (The Gentleman)**: A charming former banker. Quotes poetry and always has a spare handkerchief.
 *   **Lorenzo (The Lover)**: A former soap star who checks his reflection in every spoon and name-drops celebrities.
 *   **Marge (The Detective)**: A retired cop who squints at everyone and takes notes in a tiny book.
@@ -44,7 +44,7 @@ We are hosting a murder mystery party for [Wife's Name]'s 40th birthday, and we 
 ## 📝 Tell us what you want!
 
 Please let us know:
-1.  **Top 2 Character Choices**: (e.g., 1. LA chancla, 2. George)
+1.  **Top 2 Character Choices**: (e.g., 1. La chancla, 2. George)
 2.  **Involvement Level**: (High, Medium, or Low)
 3.  **Costume Commitment**: (Full "Old Person" gear, just a prop, or "I'm just here for the cake")
 
