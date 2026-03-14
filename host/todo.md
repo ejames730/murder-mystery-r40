@@ -11,6 +11,7 @@ This is your master checklist for the murder mystery. Use these checkboxes to tr
 - [x] **Promote Jared**: Move Jared (Fitness Coordinator) from `secondary` to `primary` and write him a deep secret and motive.
 - [ ] **Backstory Lock**: Get confirmation from **Rochelle** and **Anthony** on their past professions and fun quirks.
 - [ ] **Costume Suggestions**: Add a "Prop/Costume Suggestion" section to every character sheet (ensure these are in the `KEEP_HEADERS` list for the public generator).
+- [ ] **Add Props to Characters**: For example a character is obsessed with killing flies so he has a fly swatter. think of other household items that can be added to characters.
 
 ---
 
